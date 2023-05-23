@@ -2,7 +2,7 @@
 
 ## Context
 
-Second round, Fight!. The goal of this challenge is dive deeper on CSS Grid. So, I have asked to 
+Second round, Fight!. The goal of this challenge is dive deeper on CSS Grid. So, I have asked to make a mockup for an e-commerce store using grid.
 
 ## View
 
