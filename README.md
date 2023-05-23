@@ -2,11 +2,11 @@
 
 ## Context
 
-We're going deeper on Flexbox. We're asked to make a mockup for a message platform, only using Flexbox.
+Second round, Fight!. The goal of this challenge is dive deeper on CSS Grid. So, I have asked to 
 
 ## View
 
-Let's check this wonderful piece of software [here.](https://pelafustan.github.io/advanced_css-challenge_01/)
+Let's check this outstanding piece of software [here.](https://pelafustan.github.io/advanced_css-challenge_02/)
 
 ## Author
 
